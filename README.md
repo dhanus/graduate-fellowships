@@ -1,5 +1,7 @@
 # How to fund graduate school 
 
+This is my running list of fellowships that can help you fund your graduate school experience (particularly if you a woman/minority in computer science, or a related field).  
+
 <ol>
 
 <li><a href="http://hertzfoundation.org/dx/fellowships/application.aspx">Hertz Graduate Fellowship</a>
