@@ -34,6 +34,10 @@ Apply in years 1,2</li>
 
 Apply in years 2,3,4</li>
 
+<li><a href="https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/">Microsoft Ada Lovelace Graduate Fellowship</a>
+
+Apply in years 1, 2,3,4</li>
+
 <li><a href="https://research.facebook.com/programs/fellowship/">Facebook Graduate Fellowship</a>
 
 Apply in years 2,3,4</li>
