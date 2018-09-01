@@ -49,6 +49,9 @@ Apply in years 2,3,4
 
 Symantec is now accepting applications for the 2017 Symantec Fellowship, offering multiple one year awards for Ph.D. students pursuing innovative research in security, cryptography, machine learning, data mining, and information security. The fellowship provides up to $20,000 USD that may be used to cover one year of the student's tuition fees and to reimburse research expenses incurred by the student. In addition, they plan to award all fellowship recipients a separate salaried internship with Symantec. The application deadline is December 2nd, 2016. </li>
 
-https://research.adobe.com/scholarship/
+<li><a href="https://research.adobe.com/scholarship/">Adobe Fellowship</a>
+
+<li><a href="http://research.nvidia.com/graduate-fellowships">NVIDIA Fellowship</a>
+
 
 <ol>
