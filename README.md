@@ -52,6 +52,23 @@ Symantec is now accepting applications for the 2017 Symantec Fellowship, offerin
 <li><a href="https://research.adobe.com/scholarship/">Adobe Fellowship</a>
 
 <li><a href="http://research.nvidia.com/graduate-fellowships">NVIDIA Fellowship</a>
+  
+  <li><a href="http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-philanthropy-project-ai-fellows-program">Open Philanthropy Project AI Fellows Program</a>
+ 
+  
+  The Open Philanthropy Project has opened applications for the second year of the AI Fellows Program. Highlights:
+Up to 5 years of PhD support with the possibility of renewal for subsequent years
+Annual support of $40,000 stipend, payment of tuition and fees, and $10,000 for travel, equipment, and other research expenses
+Applications are due by October 26, 2018 at 11:59 PM Pacific time
+This fellowship seeks to fully support a small group of the most promising PhD students in AI and ML who are interested in making the long-term, large-scale impacts of AI a central focus of their research. Students with pre-existing funding sources who find the mission and community of the Fellows Program appealing are welcome to apply. We are committed to fostering a culture of inclusion, and encourage individuals with diverse backgrounds and experiences to apply; we especially encourage applications from qualified women and minorities.
+
+More details and application instructions can be found on our program page:
+
+http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-philanthropy-project-ai-fellows-program
+
+You can find out about last year's fellows here:
+
+https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/announcing-2018-ai-fellows
 
 
 <ol>
