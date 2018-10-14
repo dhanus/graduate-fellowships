@@ -71,4 +71,27 @@ You can find out about last year's fellows here:
 https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/announcing-2018-ai-fellows
 
 
+Please let your students know: there's still time to apply for the Snap Research 2019 Scholarship and Fellowship programs. The Scholarship program recognizes outstanding undergraduate and Master’s students, with an emphasis on diversity; while the Fellowship program recognizes outstanding doctoral students. Both programs provide the freedom and resources for students worldwide to pursue innovative ideas and to shape those ideas into tangible cutting-edge research and products. And both are intended to foster strong collaborations with Snap Research.
+ 
+ 
+
+<li><a href="https://snap.submittable.com/submit/115300/snap-2019-fellowship-application">Snap Fellowship</a>
+
+Both the Snap Research Scholarship and Fellowship consist of
+- a $10,000 award prize
+- the opportunity to intern at Snap for the 2019 summer or fall
+
+Applications are welcome from students carrying out exceptional research in areas of computer science relevant to Snap, including Artificial Intelligence, Computational Imaging, Computer Graphics, Computer Vision, Data Mining, Data Science, Human-Computer Interaction, Machine Learning, Natural Language Processing, Security, and Speech and Audio Processing, or another related field. The deadline for submitting an application is October 31st, 2018. 
+
+In order to be considered for the 2019 Snap Research Fellowship or Scholarship, students must meet the following criteria:
+- be registered as a full-time student at a university (as an undergraduate or Master’s student for the Scholarship, and as a PhD student for the Fellowship)
+- remain an active, full-time student for the duration of the 2018-19 academic year 
+- cannot have a close relative working for Snap, Inc.
+ 
+
+Please submit your application online here for the Scholarship and Fellowship.
+ 
+
+For additional information or questions, please send an email to fellowship_scholarship@snapchat.com.
+
 <ol>
